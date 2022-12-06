@@ -1,0 +1,1 @@
+{ "query": "query Echo {\n  echo(text: \"Hello world\") {\n    text\n  }\n}\n" }

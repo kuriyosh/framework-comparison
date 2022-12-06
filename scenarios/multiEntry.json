@@ -1,0 +1,1 @@
+{ "query": "query MultiEntry {\n  entries {\n    id\n    body\n  }\n}\n" }

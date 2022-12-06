@@ -1,0 +1,1 @@
+{ "query": "query SingleEntry {\n  entry(id: 0){\n    id\n    body\n  }\n}" }
